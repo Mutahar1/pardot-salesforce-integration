@@ -151,9 +151,9 @@ Pushed engagement data to Salesforce:
 ## Related Projects
 
 Check out my other marketing solutions:
-- [Email Threading System](../email-threading-system) - Custom email tracking
-- [AI-Powered Case Summary](../ai-case-summary) - AI for customer insights
-- [Renewal Navigator](../custom-lwc-redesigning) - Automated renewal tracking
+- [Email Threading System](https://github.com/Mutahar1/email-threading-system) - Custom email tracking
+- [AI-Powered Case Summary](https://github.com/Mutahar1/agentforce-ai-case-summary) - AI for customer insights
+- [Renewal Navigator](https://github.com/Mutahar1/custom-lwc-redesigning) - Automated renewal tracking
 
 ---
 
